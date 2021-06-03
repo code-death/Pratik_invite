@@ -1,0 +1,123 @@
+.mediaViewInfo {
+	--web-view-name: Pratik_gallery;
+	--web-view-id: Pratik_gallery;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Pratik_gallery;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Pratik_gallery {
+	position: absolute;
+	width: 1920px;
+	height: 1800px;
+	background-color: rgba(255,234,211,1);
+	overflow: hidden;
+	--web-view-name: Pratik_gallery;
+	--web-view-id: Pratik_gallery;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Nav {
+	position: absolute;
+	width: 1920px;
+	height: 540px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#WhatsApp_Image_2021-06-01_at_1 {
+	position: absolute;
+	width: 1920px;
+	height: 540px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Buttons {
+	position: absolute;
+	width: 1458px;
+	height: 413px;
+	left: 147px;
+	top: 46px;
+	overflow: visible;
+}
+#button1 {
+	fill: transparent;
+}
+.button1 {
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 155px;
+	left: 72px;
+	top: 0px;
+}
+#button6 {
+	fill: transparent;
+}
+.button6 {
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 107px;
+	left: 583px;
+	top: 48px;
+}
+#button5 {
+	fill: transparent;
+}
+.button5 {
+	position: absolute;
+	overflow: visible;
+	width: 407px;
+	height: 107px;
+	left: 1051px;
+	top: 48px;
+}
+#button4 {
+	fill: transparent;
+}
+.button4 {
+	position: absolute;
+	overflow: visible;
+	width: 463px;
+	height: 150px;
+	left: 901px;
+	top: 263px;
+}
+#button3 {
+	fill: transparent;
+}
+.button3 {
+	position: absolute;
+	overflow: visible;
+	width: 308px;
+	height: 135px;
+	left: 0px;
+	top: 274px;
+}
+#button2 {
+	fill: transparent;
+}
+.button2 {
+	position: absolute;
+	overflow: visible;
+	width: 377px;
+	height: 92px;
+	left: 436px;
+	top: 317px;
+}
+button {
+	cursor: pointer;
+}
